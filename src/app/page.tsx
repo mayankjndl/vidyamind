@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { motion } from "framer-motion";
 import Link from "next/link";
@@ -114,7 +114,7 @@ export default function LandingPage() {
           >
             AI-powered personalized tutoring with knowledge graph diagnosis,
             Bayesian mastery tracking, rubric-aware grading, and multilingual
-            voice — built for every student in India.
+            voice â€” built for every student in India.
           </motion.p>
 
           {/* CTAs */}
@@ -302,10 +302,11 @@ export default function LandingPage() {
       {/* Footer */}
       <footer className="py-8 px-6 text-center" style={{ borderTop: "1px solid var(--vm-border)" }}>
         <p className="text-xs" style={{ color: "var(--vm-text-muted)" }}>
-          VidyaMind � The Cognitive Learning Operating System ·{" "}
+          VidyaMind — The Cognitive Learning Operating System Â·{" "}
           <span className="gradient-text font-medium">AI in Education & Skilling</span>
         </p>
       </footer>
     </div>
   );
 }
+
