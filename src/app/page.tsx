@@ -84,7 +84,7 @@ export default function LandingPage() {
             }}
           >
             <Sparkles className="w-3.5 h-3.5" />
-            AMD Slingshot Hackathon 2026
+            AI-Powered Learning Platform
           </motion.div>
 
           {/* Heading */}
@@ -195,8 +195,8 @@ export default function LandingPage() {
               Every Learning Path, <span className="gradient-text">One Platform</span>
             </h2>
             <p className="text-sm max-w-lg mx-auto leading-relaxed" style={{ color: "var(--vm-text-muted)" }}>
-              VidyaMind integrates all five exploration paths from the AMD Slingshot
-              AI in Education theme into a unified cognitive learning experience.
+              VidyaMind integrates multiple learning paths into a unified
+              cognitive learning experience powered by AI.
             </p>
           </motion.div>
 
@@ -302,7 +302,7 @@ export default function LandingPage() {
       {/* Footer */}
       <footer className="py-8 px-6 text-center" style={{ borderTop: "1px solid var(--vm-border)" }}>
         <p className="text-xs" style={{ color: "var(--vm-text-muted)" }}>
-          VidyaMind — Built for AMD Slingshot Hackathon 2026 ·{" "}
+          VidyaMind � The Cognitive Learning Operating System ·{" "}
           <span className="gradient-text font-medium">AI in Education & Skilling</span>
         </p>
       </footer>

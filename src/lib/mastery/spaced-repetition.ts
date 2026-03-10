@@ -49,7 +49,7 @@ export function scheduleReview(
         }
     }
 
-    // Cap interval at 30 days for hackathon context
+    // Cap interval at 30 days for practical scheduling
     interval = Math.min(interval, 30);
 
     const nextReviewDate = new Date(

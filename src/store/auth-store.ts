@@ -1,5 +1,5 @@
 // ===== Auth Store =====
-// Simple localStorage-based auth for hackathon demo
+// Simple localStorage-based auth
 
 import { create } from "zustand";
 import { persist } from "zustand/middleware";

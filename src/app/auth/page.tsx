@@ -316,7 +316,7 @@ export default function AuthPage() {
 
                 {/* Footer */}
                 <p className="text-center mt-6 text-[11px]" style={{ color: "var(--vm-text-faint)" }}>
-                    Built for AMD Slingshot Hackathon 2026
+                    VidyaMind — Cognitive Learning OS
                 </p>
             </motion.div>
         </div>
